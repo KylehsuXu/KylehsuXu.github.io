@@ -1,14 +1,14 @@
 {
-    "name": "HD-blog",
-    "title": "HD Blog",
-    "author": "HD <liuour@gmail.com>",
+    "name": "kylehsu-blog",
+    "title": "Kylehsu Blog",
+    "author": "HD <kylehsu@gmail.com>",
     "version": "1.8.2",
-    "homepage": "http://ssnhd.github.io",
+    "homepage": "https://kylehsuxu.github.io/",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ssnhd/ssnhd.github.io"
+        "url": "https://github.com/KylehsuXu/KylehsuXu.github.io"
     },
-    "bugs": "https://github.com/ssnhd/ssnhd.github.io/issues",
+    "bugs": "https://github.com/KylehsuXu/KylehsuXu.github.io/issues",
     "devDependencies": {
         "grunt": ">=1.3.0",
         "grunt-banner": "~0.2.3",
